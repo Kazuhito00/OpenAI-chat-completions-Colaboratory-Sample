@@ -1,7 +1,7 @@
 # OpenAI-chat-completions-Colaboratory-Sample
 Colaboratory上でChatGPTのAPIをお試しするサンプルです。<br>
 テキスト入力と画像入力を試しています。<br>
-モデルは「gpt-4o-2024-05-13」を指定しています（2024年5月14日時点）<br><br>
+モデルは「gpt-4o-mini」を指定しています（2024年7月21日時点）<br><br>
 ![image](https://github.com/Kazuhito00/OpenAI-chat-completions-Colaboratory-Sample/assets/37477845/cb46d213-de0e-4917-9799-6203d5b90787)
 
 
